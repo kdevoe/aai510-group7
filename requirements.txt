@@ -2,6 +2,7 @@ dataprep
 pandas
 nbmerge
 numpy
-seaborn
 matplotlib
+seaborn
 scikit-learn
+xgboost
