@@ -167,4 +167,5 @@ cython_debug/
 # Dataset
 tripadvisor_hotel_reviews.csv
 510_env
-
+.DS_Store
+/data/.DS_Store
