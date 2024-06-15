@@ -1,5 +1,6 @@
 dataprep
 pandas
+nbmerge
 numpy
 seaborn
 matplotlib
